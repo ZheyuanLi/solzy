@@ -1,0 +1,9 @@
+Package: solzy
+Title: R Functions Written by Zheyuan Li (UserID 4891738) on Stack Overflow
+Version: 1.0
+Date: 2022-08-12
+Author: Zheyuan Li
+Maintainer: Zheyuan Li <13937871312@163.com>
+Description: A collection of useful R functions written by Zheyuan Li on Stack Overflow.
+License: GPL-3
+NeedsCompilation: no
